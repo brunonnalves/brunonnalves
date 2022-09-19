@@ -1,4 +1,6 @@
 ## Hi! I'm Bruno Alves
+###### I’m a mechanical engineer and front-end developer who loves innovation and technologies. I studied a lot about hardware to achieve the best price-performance to buy my first PC for hobbies in late 2020. This new knowledge sparkled a desire to learn about programming languages for PC. I started my studies in the 2nd semester of 2021 in HTML, CSS and JavaScript and then in React.JS with typescript. With my strong will, systematic engineering vision and ability to learn quickly, I got my first job as a Jr Developer to work in a team of ten people to develop and maintain a complete web application. I am always looking for personal growth and new technologies to work on more front-end projects, aiming to achieve reliability, quality and performance both to the end consumer and to the application code.
+
 
 <div align="center">
   <a href="https://github.com/brunonnalves">
