@@ -1,5 +1,16 @@
 ## Hi! I'm Bruno Alves
-###### I’m a mechanical engineer and front-end developer who loves innovation and technologies. I studied a lot about hardware to achieve the best price-performance to buy my first PC for hobbies in late 2020. This new knowledge sparkled a desire to learn about programming languages for PC. I started my studies in the 2nd semester of 2021 in HTML, CSS and JavaScript and then in React.JS with typescript. With my strong will, systematic engineering vision and ability to learn quickly, I got my first job as a Jr Developer to work in a team of ten people to develop and maintain a complete web application. I am always looking for personal growth and new technologies to work on more front-end projects, aiming to achieve reliability, quality and performance both to the end consumer and to the application code.
+
+🚀 Passionate Frontend Engineer and Project Manager
+
+Hello! I'm Bruno, a dynamic Frontend Engineer with a strong background in project management and product innovation. Currently leading the frontend development at Duna System, a pioneer in 3D reality capture via LiDAR, I specialize in crafting intuitive web applications using technologies like React, TypeScript, and Redux. My focus lies in creating seamless user experiences and driving projects from conception to successful implementation.
+
+🛠️ Technical Excellence and Project Management Acumen
+
+With experience at Servit, where I played a key role in digitizing restaurant systems, and as a former Project Manager at Primare Engenharia overseeing major engineering projects, I bring a unique blend of technical expertise and project management acumen. My approach involves strategic decision-making, continuous assessment of resources, and proactive risk mapping. My commitment to staying at the forefront of industry trends is underscored by my educational background in Mechanical Engineering and participation in immersive bootcamps and industry events.
+
+🌐 Multilingual Collaborator and Continuous Learner
+
+Fluent in Portuguese and English, with a basic understanding of German, I thrive in collaborative environments. Whether it's reducing manufacturing costs at CEMAG or contributing to defining data architecture at Duna System, my goal is to deliver impactful solutions. A continuous learner, I have participated in events like NLW Return – Impulse Track and industry training with Brainnest, ensuring my skills remain sharp and adaptable.
 
 
 <div align="center">
