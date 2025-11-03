@@ -8,7 +8,7 @@ I’m Bruno, a passionate Frontend Engineer with a solid foundation in fullstack
 
 ### 💼 What I've Been Up To
 
-- **Bytemith** (2024–now)  
+- **Bytemith** (2024–2025)  
   Leading frontend efforts across multiple platforms, including digitalization of industrial processes and healthcare management tools. Delivered real-time interactive maps, dynamic form systems, and approval workflows using React, Chakra UI, Formik, and mapping integrations.
 
 - **Quantum Boardgames** (2025)  
@@ -24,10 +24,10 @@ I’m Bruno, a passionate Frontend Engineer with a solid foundation in fullstack
 
 ### 🧠 Tech Stack & Skills
 
-- **Frontend:** React, TypeScript, Vite, Zustand, Chakra UI, MUI, Redux, Formik, Axios  
+- **Frontend:** React, TypeScript, Vite, Zustand, Chakra UI, MUI, Redux, Formik, Axios, TailwindCSS, Styled-Component, Formik, YUP, React Query 
 - **Backend:** NestJS, TypeORM, Node.js  
 - **Mobile:** Ionic + Angular  
-- **Infra:** Docker, GitHub Actions, Tailscale, NGINX, Ubuntu Server, Cloudflare  
+- **Infra:** Docker, GitHub Actions, Tailscale, NGINX, Ubuntu Server, Cloudflare, AWS, Oracle Cloud
 - **DevOps:** CI/CD, SSL, DNS, Reverse Proxy  
 - **Languages:** JavaScript, TypeScript, HTML, CSS, PHP
 
@@ -36,7 +36,7 @@ I’m Bruno, a passionate Frontend Engineer with a solid foundation in fullstack
 ### 🌍 Languages
 
 - Portuguese 🇧🇷 (Native)  
-- English 🇺🇸 (Fluent)  
+- English 🇺🇸 (Full Professional)  
 - German 🇩🇪 (Basic)
 
 ---
